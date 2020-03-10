@@ -1,0 +1,60 @@
+./TestData/Vec-Data-L5-S1-ID4.txt A ./TestData/Vec-Data-L5-S1-ID4.txt
+./TestData/Vec-Data-L5-S1-ID4.txt S ./TestData/Vec-Data-L5-S1-ID4.txt
+./TestData/Vec-Data-L5-S1-ID4.txt M ./TestData/Vec-Data-L5-S1-ID4.txt
+./TestData/Vec-Data-L5-S1-ID1.txt A ./TestData/Vec-Data-L5-S8-ID1.txt
+./TestData/Vec-Data-L5-S1-ID1.txt S ./TestData/Vec-Data-L5-S8-ID1.txt
+./TestData/Vec-Data-L5-S1-ID1.txt M ./TestData/Vec-Data-L5-S8-ID1.txt
+./TestData/Vec-Data-L5-S8-ID0.txt A ./TestData/Vec-Data-L5-S1-ID3.txt
+./TestData/Vec-Data-L5-S8-ID0.txt S ./TestData/Vec-Data-L5-S1-ID3.txt
+./TestData/Vec-Data-L5-S8-ID0.txt M ./TestData/Vec-Data-L5-S1-ID3.txt
+./TestData/Vec-Data-L5-S1-ID2.txt A ./TestData/Vec-Data-L5-S1-ID2.txt
+./TestData/Vec-Data-L5-S1-ID2.txt S ./TestData/Vec-Data-L5-S1-ID2.txt
+./TestData/Vec-Data-L5-S1-ID2.txt M ./TestData/Vec-Data-L5-S1-ID2.txt
+./TestData/Vec-Data-L5-S8-ID0.txt A ./TestData/Vec-Data-L5-S8-ID0.txt
+./TestData/Vec-Data-L5-S8-ID0.txt S ./TestData/Vec-Data-L5-S8-ID0.txt
+./TestData/Vec-Data-L5-S8-ID0.txt M ./TestData/Vec-Data-L5-S8-ID0.txt
+./TestData/Vec-Data-L15-S1-ID3.txt A ./TestData/Vec-Data-L15-S1-ID2.txt
+./TestData/Vec-Data-L15-S1-ID3.txt S ./TestData/Vec-Data-L15-S1-ID2.txt
+./TestData/Vec-Data-L15-S1-ID3.txt M ./TestData/Vec-Data-L15-S1-ID2.txt
+./TestData/Vec-Data-L15-S4-ID4.txt A ./TestData/Vec-Data-L15-S1-ID4.txt
+./TestData/Vec-Data-L15-S4-ID4.txt S ./TestData/Vec-Data-L15-S1-ID4.txt
+./TestData/Vec-Data-L15-S4-ID4.txt M ./TestData/Vec-Data-L15-S1-ID4.txt
+./TestData/Vec-Data-L15-S4-ID4.txt A ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S4-ID4.txt S ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S4-ID4.txt M ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S8-ID2.txt A ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S8-ID2.txt S ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S8-ID2.txt M ./TestData/Vec-Data-L15-S8-ID3.txt
+./TestData/Vec-Data-L15-S1-ID1.txt A ./TestData/Vec-Data-L15-S1-ID1.txt
+./TestData/Vec-Data-L15-S1-ID1.txt S ./TestData/Vec-Data-L15-S1-ID1.txt
+./TestData/Vec-Data-L15-S1-ID1.txt M ./TestData/Vec-Data-L15-S1-ID1.txt
+./TestData/Vec-Data-L150-S2-ID4.txt A ./TestData/Vec-Data-L150-S1-ID3.txt
+./TestData/Vec-Data-L150-S2-ID4.txt S ./TestData/Vec-Data-L150-S1-ID3.txt
+./TestData/Vec-Data-L150-S2-ID4.txt M ./TestData/Vec-Data-L150-S1-ID3.txt
+./TestData/Vec-Data-L150-S2-ID1.txt A ./TestData/Vec-Data-L150-S4-ID2.txt
+./TestData/Vec-Data-L150-S2-ID1.txt S ./TestData/Vec-Data-L150-S4-ID2.txt
+./TestData/Vec-Data-L150-S2-ID1.txt M ./TestData/Vec-Data-L150-S4-ID2.txt
+./TestData/Vec-Data-L150-S4-ID3.txt A ./TestData/Vec-Data-L150-S2-ID1.txt
+./TestData/Vec-Data-L150-S4-ID3.txt S ./TestData/Vec-Data-L150-S2-ID1.txt
+./TestData/Vec-Data-L150-S4-ID3.txt M ./TestData/Vec-Data-L150-S2-ID1.txt
+./TestData/Vec-Data-L150-S8-ID4.txt A ./TestData/Vec-Data-L150-S8-ID4.txt
+./TestData/Vec-Data-L150-S8-ID4.txt S ./TestData/Vec-Data-L150-S8-ID4.txt
+./TestData/Vec-Data-L150-S8-ID4.txt M ./TestData/Vec-Data-L150-S8-ID4.txt
+./TestData/Vec-Data-L150-S1-ID1.txt A ./TestData/Vec-Data-L150-S1-ID1.txt
+./TestData/Vec-Data-L150-S1-ID1.txt S ./TestData/Vec-Data-L150-S1-ID1.txt
+./TestData/Vec-Data-L150-S1-ID1.txt M ./TestData/Vec-Data-L150-S1-ID1.txt
+./TestData/Vec-Data-L5-S1-ID4.txt M ./TestData/Vec-Data-L5-S1-ID1.txt S ./TestData/Vec-Data-L5-S8-ID4.txt S ./TestData/Vec-Data-L5-S2-ID0.txt S ./TestData/Vec-Data-L5-S2-ID3.txt
+./TestData/Vec-Data-L5-S1-ID3.txt M ./TestData/Vec-Data-L5-S8-ID2.txt S ./TestData/Vec-Data-L5-S1-ID3.txt S ./TestData/Vec-Data-L5-S2-ID1.txt M ./TestData/Vec-Data-L5-S4-ID4.txt
+./TestData/Vec-Data-L5-S8-ID3.txt M ./TestData/Vec-Data-L5-S4-ID2.txt S ./TestData/Vec-Data-L5-S1-ID3.txt M ./TestData/Vec-Data-L5-S1-ID0.txt M ./TestData/Vec-Data-L5-S4-ID0.txt
+./TestData/Vec-Data-L5-S4-ID4.txt S ./TestData/Vec-Data-L5-S8-ID4.txt A ./TestData/Vec-Data-L5-S1-ID1.txt M ./TestData/Vec-Data-L5-S8-ID1.txt M ./TestData/Vec-Data-L5-S1-ID4.txt
+./TestData/Vec-Data-L5-S2-ID3.txt M ./TestData/Vec-Data-L5-S8-ID2.txt S ./TestData/Vec-Data-L5-S1-ID2.txt A ./TestData/Vec-Data-L5-S2-ID2.txt M ./TestData/Vec-Data-L5-S2-ID1.txt
+./TestData/Vec-Data-L15-S1-ID1.txt A ./TestData/Vec-Data-L15-S1-ID2.txt A ./TestData/Vec-Data-L15-S1-ID3.txt S ./TestData/Vec-Data-L15-S4-ID4.txt S ./TestData/Vec-Data-L15-S2-ID4.txt
+./TestData/Vec-Data-L15-S2-ID0.txt S ./TestData/Vec-Data-L15-S2-ID0.txt M ./TestData/Vec-Data-L15-S4-ID4.txt A ./TestData/Vec-Data-L15-S1-ID2.txt M ./TestData/Vec-Data-L15-S4-ID3.txt
+./TestData/Vec-Data-L15-S2-ID0.txt A ./TestData/Vec-Data-L15-S4-ID3.txt S ./TestData/Vec-Data-L15-S8-ID1.txt A ./TestData/Vec-Data-L15-S2-ID4.txt A ./TestData/Vec-Data-L15-S1-ID3.txt
+./TestData/Vec-Data-L15-S8-ID0.txt S ./TestData/Vec-Data-L15-S1-ID0.txt S ./TestData/Vec-Data-L15-S8-ID0.txt M ./TestData/Vec-Data-L15-S4-ID3.txt A ./TestData/Vec-Data-L15-S2-ID4.txt
+./TestData/Vec-Data-L15-S2-ID4.txt S ./TestData/Vec-Data-L15-S2-ID4.txt S ./TestData/Vec-Data-L15-S2-ID1.txt A ./TestData/Vec-Data-L15-S1-ID0.txt M ./TestData/Vec-Data-L15-S4-ID1.txt
+./TestData/Vec-Data-L150-S2-ID3.txt A ./TestData/Vec-Data-L150-S1-ID1.txt S ./TestData/Vec-Data-L150-S8-ID0.txt M ./TestData/Vec-Data-L150-S2-ID1.txt M ./TestData/Vec-Data-L150-S8-ID2.txt
+./TestData/Vec-Data-L150-S4-ID2.txt S ./TestData/Vec-Data-L150-S8-ID1.txt M ./TestData/Vec-Data-L150-S2-ID2.txt M ./TestData/Vec-Data-L150-S1-ID0.txt S ./TestData/Vec-Data-L150-S1-ID1.txt
+./TestData/Vec-Data-L150-S2-ID2.txt A ./TestData/Vec-Data-L150-S8-ID4.txt A ./TestData/Vec-Data-L150-S2-ID3.txt A ./TestData/Vec-Data-L150-S8-ID2.txt A ./TestData/Vec-Data-L150-S4-ID0.txt
+./TestData/Vec-Data-L150-S2-ID3.txt A ./TestData/Vec-Data-L150-S8-ID3.txt A ./TestData/Vec-Data-L150-S2-ID2.txt S ./TestData/Vec-Data-L150-S8-ID3.txt S ./TestData/Vec-Data-L150-S4-ID0.txt
+./TestData/Vec-Data-L150-S1-ID1.txt S ./TestData/Vec-Data-L150-S2-ID1.txt S ./TestData/Vec-Data-L150-S8-ID0.txt S ./TestData/Vec-Data-L150-S8-ID3.txt M ./TestData/Vec-Data-L150-S1-ID4.txt
